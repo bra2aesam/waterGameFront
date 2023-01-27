@@ -4,10 +4,10 @@
 @endsection
 @section('css')
 <!-- Customized Bootstrap Stylesheet -->
-<link href="UserSide/cssAbout/bootstrap.min.css" rel="stylesheet">
+<link href="UserSide/cssBook/bootstrap.min.css" rel="stylesheet">
 
 <!-- Template Stylesheet -->
-<link href="UserSide/cssAbout/style.css" rel="stylesheet">
+<link href="UserSide/cssBook/style.css" rel="stylesheet">
 @endsection
 
 {{--============= showCase ===============--}}

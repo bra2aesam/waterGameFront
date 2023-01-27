@@ -4,7 +4,7 @@
 @endsection
 @section('css')
     <!-- Customized Bootstrap Stylesheet -->
-    <link href="UserSide/cssAbout/bootstrap.min.css" rel="stylesheet">
+    <link href="UserSide/cssBook/bootstrap.min.css" rel="stylesheet">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/singleCSS/bootstrap.min.css"
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="singleCSS/SINGLEmain.css">
     <!-- Template Stylesheet -->
-    <link href="UserSide/cssAbout/style.css" rel="stylesheet">
+    <link href="UserSide/cssBook/style.css" rel="stylesheet">
 @endsection
 
 {{-- ============= showCase =============== --}}
